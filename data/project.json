@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Weather Information Web",
+    "thumbnail": "Weather/1.png",
+    "desc": {
+      "en": "A website that provides weather forecasts and temperature data for cities worldwide.",
+      "id": "Website yang menyediakan informasi ramalan cuaca dan suhu untuk berbagai kota di seluruh dunia."
+    },
+    "stacks": ["VueJs", "Tailwind CSS"]
+  },
+  {
+    "name": "Invitation Wedding",
+    "thumbnail": "InviteYou/1.png",
+    "desc": {
+      "en": "A website for creating digital invitations featuring a variety of templates for birthdays and weddings.",
+      "id": " Website untuk membuat undangan digital dengan berbagai template untuk ulang tahun dan pernikahan."
+    },
+    "stacks": ["Laravel", "NextJS", "Tailwind CSS", "MySQL"]
+  },
+  {
+    "name": "System Information Management",
+    "thumbnail": "ERP/1.png",
+    "desc": {
+      "en": "Management Information System of PT Sinko Prima Alloy covers the sales division, warehouse, quality control, logistics, and more.",
+      "id": "Sistem Informasi Manajemen PT Sinko Prima Alloy mencakup divisi penjualan, gudang, quality control, logistik, dan lainnya."
+    },
+    "stacks": ["Laravel", "VueJs", "Bootsrap", "MySQL"]
+  }
+]

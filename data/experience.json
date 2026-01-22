@@ -1,0 +1,64 @@
+[
+  {
+    "role": "Full Stack Developer",
+    "year": "2025 - sekarang",
+    "brand": "Lestari Gold",
+    "company": "PT Lestari Mulia Sentosa",
+    "sector": "Jewelry Manufacturer",
+    "logo": "lestari.png",
+    "jobdesc": [
+      {
+        "en": "Developed and implemented an internal system using ERPNext, enhancing operational efficiency",
+        "id": "Pengembangan dan implementasi sistem internal menggunakan ERPNext, untuk meningkatkan efisiensi pekerjaan"
+      },
+      {
+        "en": "Built an exhibition sales transaction management system using Laravel, reducing manual errors and increasing transaction speed",
+        "id": "Pengembangan sistem manajemen transaksi penjualan pameran menggunakan Laravel, untuk mengurangi entry manual dan meningkatkan kecepatan transaksi"
+      }
+    ]
+  },
+  {
+    "role": "Full Stack Developer",
+    "year": "2018 - 2025",
+    "brand": "Elitech",
+    "company": "PT Sinko Prima Alloy",
+    "sector": "Medical Device Manufacturer",
+    "logo": "elitech.png",
+    "jobdesc": [
+      {
+        "en": "Optimized and managed web server deployment using NGINX, improving website performance, stability, and scalability for production environments.",
+        "id": "Optimasi dan pengelolaan deployment server web menggunakan NGINX untuk meningkatkan performa, stabilitas, dan skalabilitas"
+      },
+      {
+        "en": "Developed an Information Management System using Laravel and Vue.js to streamline data management processes and improve accessibility for internal users.",
+        "id": "Pengembangan Sistem Manajemen Informasi berbasis Laravel dan Vue.js untuk meningkatkan efisiensi pengelolaan data internal."
+      },
+      {
+        "en": "Designed and implemented a RESTful API for stock information management to integrate and synchronize sub-distributor data for PT. Emiindo Jaya Bersama, reducing manual data entry and improving accuracy.",
+        "id": "Pengembangan RESTful API untuk integrasi dan sinkronisasi data stok sub-distributor PT. Emiindo Jaya Bersama guna meningkatkan akurasi data dan efisiensi proses."
+      }
+    ]
+  },
+  {
+    "role": "IT Suppport",
+    "year": "2016 - 2018",
+    "brand": "Elitech",
+    "company": "PT Bumi Menara Internusa",
+    "sector": " Food Manufacturer",
+    "logo": "bmi.png",
+    "jobdesc": [
+      {
+        "en": "Repair of computer networks and computer hardware",
+        "id": "Melakukan perbaikan hardware komputer dan jaringan"
+      },
+      {
+        "en": "Network and CCTV installation",
+        "id": "Instalasi Jaringan dan CCTV"
+      },
+      {
+        "en": "Computer equipment maintenance",
+        "id": "Perawatan dan pemeliharaan peralatan komputer"
+      }
+    ]
+  }
+]
